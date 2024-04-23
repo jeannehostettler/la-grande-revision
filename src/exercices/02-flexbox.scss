@@ -30,5 +30,10 @@
   }
 
   .wrapper-4 {
+    display: flex;
+    flex-wrap: wrap;
+    .box {
+      width: 50%;
+    }
   }
 }
